@@ -1,6 +1,7 @@
 ************
-Discontinued
+Not Discontinued!
 ************
+I came across the original repo and it met my needs. The maintainer claimed there are better testers but I had trouble with using them in Kivy so I will keep this one alive. The rest of the readme will be from the OP (For now).
 
 Back in early 2012 I found the need to test my VPS speed and speedtest.net seemed like a decent service (still is).
 There was no CLI for it, so I made pyspeedtest. Since then a lot of other great options came up such as https://github.com/sivel/speedtest-cli or https://github.com/zpeters/speedtest which are better maintained (and even got higher visibility).
